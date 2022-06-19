@@ -1,3 +1,3 @@
 • Siber güvenlik için shell öğrenimi.
 
-• Shell learning for cybersecurity.
+• Shell learning for cyber security.
